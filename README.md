@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Pradeep Kumar Nishad
 
-🚀 Junior Cloud / Infrastructure Engineer  
+🚀 Junior Cloud Operations Engineer  
 ☁️ Azure | AVD | Windows Server | Networking  
 🔧 Transitioning towards **DevOps → AIOps**
 
