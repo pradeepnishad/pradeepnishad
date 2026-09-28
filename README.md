@@ -1,98 +1,50 @@
-# 👋 Hi, I'm Pradeep Kumar Nishad
+# 👋 Hey, I'm Pradeep Nishad
 
-🚀 Junior Cloud Operations Engineer  
-☁️ Azure | AVD | Windows Server | Networking  
-🔧 Transitioning towards **DevOps → AIOps**
+### Cloud Infrastructure Engineer ☁️
 
----
+I work with **Microsoft Azure, Azure Virtual Desktop, VDI and infrastructure** - mostly making sure things stay up, work properly, and don't randomly decide to break at 2 AM. 😄
 
-## 👨‍💻 About Me
-
-I'm a Computer Science & IT postgraduate currently working as a **Junior Engineer / Intern** in **Azure Virtual Desktop (AVD) and Windows Server environments**.
-
-While my role is infrastructure-focused, it gave me a **strong foundation in real-world IT systems** — cloud, networking, identity, monitoring, and incident handling.  
-Now, I'm actively **upskilling towards DevOps and AIOps**, blending **cloud + automation + ML fundamentals**.
-
-💡 I strongly believe **great engineers understand systems end-to-end**, not just one tool.
+I'm currently expanding into **Cloud Engineering & DevOps**, with a focus on automation, Linux, Infrastructure as Code and cloud-native technologies.
 
 ---
 
-## 🛠️ Tech Stack & Skills
+### 🛠️ What I Work With
 
-### ☁️ Cloud & Infrastructure
-- Microsoft Azure (Core Services)
-- Azure Virtual Desktop (AVD)
-- Virtual Machines (Windows)
-- Azure Networking (VNet, NSG, VPN – fundamentals)
-- Azure Active Directory (Entra ID – basics)
-- Azure Storage (Blob, File – basics)
+**Cloud:** Azure · Azure Virtual Desktop · Azure VMs · Azure Monitor
 
-### 🖥️ OS & Administration
-- Windows Server Administration
-- Active Directory (Users, Groups, GPO – basics)
-- Patch Management & VM Troubleshooting
-- Remote Desktop Services
+**Infrastructure:** Windows · Linux · Active Directory · Entra ID · FSLogix · VDI
 
-### 🌐 Networking Fundamentals
-- TCP/IP, DNS, DHCP
-- Subnetting & IP addressing
-- Firewalls & basic security concepts
-- Load balancing (conceptual)
+**DevOps:** Git · GitHub · Terraform · Docker · CI/CD
 
-### ⚙️ DevOps (Learning & Practicing)
-- Linux fundamentals
-- Git & GitHub
-- Docker (basics)
-- CI/CD concepts
-- Infrastructure as Code (Terraform – learning)
+**Scripting:** Python · Bash · PowerShell
 
-### 📊 Monitoring & Operations
-- Log analysis
-- Incident & ticket handling (BMC Remedy)
-- System monitoring concepts
-
-### 🤖 AI / ML (Early Stage)
-- Python for automation & ML
-- Machine Learning fundamentals
-- Exploring AIOps use cases (log anomaly detection)
+**Other:** Citrix · VMware · Nutanix · Dell Wyse
 
 ---
 
-## 📂 Featured Projects
+### 🚧 Currently Exploring
 
-### 🔍 Server Log Anomaly Detection *(In Progress)*
-- Real-time log analysis using Python & ML
-- Detects unusual patterns in server logs
-- Planned stack: Python, scikit-learn, ELK
-- Focused on **AIOps use cases**
-
-## 🎯 Current Goals (2026)
-
-- 🔄 Strengthen Networking for Cloud.
-- 🔄 Become job-ready in **DevOps**, **SRE**, **Cloud Engineer**.
-- 🔜 Build strong DevOps + Cloud portfolio projects
-- 🔜 Move towards **AIOps / MLOps**
+* Infrastructure as Code with **Terraform**
+* Containers with **Docker**
+* **Kubernetes** & container orchestration
+* Linux & automation
+* CI/CD pipelines
+* Azure cloud architecture
 
 ---
 
-## 📈 Learning Philosophy
+### 🔨 What You'll Find Here
 
-> "Certifications validate knowledge, but **projects prove capability**."
+Mostly **hands-on labs, cloud projects, automation scripts and experiments** while I build deeper expertise in Cloud & DevOps.
 
-I focus on:
-- Understanding **why systems work**, not just how
-- Building **real-world inspired projects**
-- Growing step-by-step without shortcuts
-
----
-
-## 📫 Connect With Me
-
-- 💼 LinkedIn: www.linkedin.com/in/pradeep-nishad-775024269
-- 📧 Email: pradeepnishadxyz@adityabirlacapital.com
-- 🌍 Location: India
+```text
+Infrastructure → Automation → Cloud → DevOps
+```
 
 ---
 
-⭐ If you're a recruiter or engineer — feel free to explore my repositories.  
-I'm always open to **learning, collaboration, and growth opportunities**.
+### 📫 Connect
+
+[LinkedIn](https://www.linkedin.com/in/pradeep-nishad-775024269/)
+
+> *Build it. Break it. Understand it. Automate it.*
